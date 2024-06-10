@@ -1,0 +1,16 @@
+<!-- home.html -->
+{% extends "base.html" %}
+{% block content %}
+<div class="vertical-center">
+    <div class="container">
+        {% with messages = get_flashed_messages()%}
+            {% if messages %}
+                {{messages[0]}} 
+            {% endif%}
+        {% endwith%}
+        <p>Selecione uma das opções acima!</p>
+    </div>
+</div>
+{% endblock %}
+
+

@@ -1,0 +1,30 @@
+<!-- update_user.html -->
+{% extends "base.html" %}
+{% block content %}
+<div class="vertical-center">
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-body">
+                    <form action="{{ url_for('user.update_user') }}" method="post">
+                        <input type="hidden" name="user_id" value="{{ user.id }}">
+                        <p>Nome:</p>
+                        <p><input type="text" name="username" value="{{ user.username }}" required/></p>
+                        <p>E-mail:</p>
+                        <p><input type="text" name="email" value="{{ user.email }}" readonly /></p>
+                        <p>Senha:</p>
+                        <p><input type="text" name="password" placeholder="*********" required/></p>
+                        <p>Função:</p>
+                        <select name="role_type_" class="Input">
+                            {% for role in roles %}
+                                <option value="{{ role.id }}" {% if role.id == user.role_id %}selected{% endif %}>{{ role.name }}</option>
+                            {% endfor %}
+                        </select>
+                        <p><input type="submit" value="Alterar" /></p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

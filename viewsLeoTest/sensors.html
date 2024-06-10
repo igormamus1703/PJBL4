@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sensores</title>
+</head>
+<body>
+    <h1>Lista de Sensores</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Ativo</th>
+                <th>Tópico</th>
+                <th>Unidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for sensor in sensors %}
+            <tr>
+                <td>{{ sensor[0] }}</td>
+                <td>{{ sensor[1] }}</td>
+                <td>{{ sensor[2] }}</td>
+                <td>{{ sensor[3] }}</td>
+                <td>{{ sensor[4] }}</td>
+                <td>{{ sensor[5] }}</td>
+                <td>{{ sensor[6] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

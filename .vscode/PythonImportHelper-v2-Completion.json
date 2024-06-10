@@ -1,0 +1,1276 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Actuator",
+        "importPath": "models.iot.actuators",
+        "description": "models.iot.actuators",
+        "isExtraImport": true,
+        "detail": "models.iot.actuators",
+        "documentation": {}
+    },
+    {
+        "label": "Actuator",
+        "importPath": "models.iot.actuators",
+        "description": "models.iot.actuators",
+        "isExtraImport": true,
+        "detail": "models.iot.actuators",
+        "documentation": {}
+    },
+    {
+        "label": "Actuator",
+        "importPath": "models.iot.actuators",
+        "description": "models.iot.actuators",
+        "isExtraImport": true,
+        "detail": "models.iot.actuators",
+        "documentation": {}
+    },
+    {
+        "label": "flask_login",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "LoginManager",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "isExtraImport": true,
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "sensor_",
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "isExtraImport": true,
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "actuator_",
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "isExtraImport": true,
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "importPath": "controllers.reads_controller",
+        "description": "controllers.reads_controller",
+        "isExtraImport": true,
+        "detail": "controllers.reads_controller",
+        "documentation": {}
+    },
+    {
+        "label": "write",
+        "importPath": "controllers.writes_controller",
+        "description": "controllers.writes_controller",
+        "isExtraImport": true,
+        "detail": "controllers.writes_controller",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "isExtraImport": true,
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "controllers.login_controller",
+        "description": "controllers.login_controller",
+        "isExtraImport": true,
+        "detail": "controllers.login_controller",
+        "documentation": {}
+    },
+    {
+        "label": "publish",
+        "importPath": "controllers.publish_controller",
+        "description": "controllers.publish_controller",
+        "isExtraImport": true,
+        "detail": "controllers.publish_controller",
+        "documentation": {}
+    },
+    {
+        "label": "mqtt",
+        "importPath": "controllers.mqtt_controller",
+        "description": "controllers.mqtt_controller",
+        "isExtraImport": true,
+        "detail": "controllers.mqtt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Read",
+        "importPath": "models.iot.read",
+        "description": "models.iot.read",
+        "isExtraImport": true,
+        "detail": "models.iot.read",
+        "documentation": {}
+    },
+    {
+        "label": "Read",
+        "importPath": "models.iot.read",
+        "description": "models.iot.read",
+        "isExtraImport": true,
+        "detail": "models.iot.read",
+        "documentation": {}
+    },
+    {
+        "label": "Read",
+        "importPath": "models.iot.read",
+        "description": "models.iot.read",
+        "isExtraImport": true,
+        "detail": "models.iot.read",
+        "documentation": {}
+    },
+    {
+        "label": "Write",
+        "importPath": "models.iot.write",
+        "description": "models.iot.write",
+        "isExtraImport": true,
+        "detail": "models.iot.write",
+        "documentation": {}
+    },
+    {
+        "label": "Write",
+        "importPath": "models.iot.write",
+        "description": "models.iot.write",
+        "isExtraImport": true,
+        "detail": "models.iot.write",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user.users",
+        "description": "models.user.users",
+        "isExtraImport": true,
+        "detail": "models.user.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user.users",
+        "description": "models.user.users",
+        "isExtraImport": true,
+        "detail": "models.user.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user.users",
+        "description": "models.user.users",
+        "isExtraImport": true,
+        "detail": "models.user.users",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models.user.users",
+        "description": "models.user.users",
+        "isExtraImport": true,
+        "detail": "models.user.users",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "instance",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "models.db",
+        "description": "models.db",
+        "isExtraImport": true,
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "Mqtt",
+        "importPath": "flask_mqtt",
+        "description": "flask_mqtt",
+        "isExtraImport": true,
+        "detail": "flask_mqtt",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "models.user.roles",
+        "description": "models.user.roles",
+        "isExtraImport": true,
+        "detail": "models.user.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "models.user.roles",
+        "description": "models.user.roles",
+        "isExtraImport": true,
+        "detail": "models.user.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "importPath": "models.user.roles",
+        "description": "models.user.roles",
+        "isExtraImport": true,
+        "detail": "models.user.roles",
+        "documentation": {}
+    },
+    {
+        "label": "Sensor",
+        "importPath": "models.iot.sensors",
+        "description": "models.iot.sensors",
+        "isExtraImport": true,
+        "detail": "models.iot.sensors",
+        "documentation": {}
+    },
+    {
+        "label": "Sensor",
+        "importPath": "models.iot.sensors",
+        "description": "models.iot.sensors",
+        "isExtraImport": true,
+        "detail": "models.iot.sensors",
+        "documentation": {}
+    },
+    {
+        "label": "Sensor",
+        "importPath": "models.iot.sensors",
+        "description": "models.iot.sensors",
+        "isExtraImport": true,
+        "detail": "models.iot.sensors",
+        "documentation": {}
+    },
+    {
+        "label": "Sensor",
+        "importPath": "models.iot.sensors",
+        "description": "models.iot.sensors",
+        "isExtraImport": true,
+        "detail": "models.iot.sensors",
+        "documentation": {}
+    },
+    {
+        "label": "Device",
+        "importPath": "models.iot.devices",
+        "description": "models.iot.devices",
+        "isExtraImport": true,
+        "detail": "models.iot.devices",
+        "documentation": {}
+    },
+    {
+        "label": "Device",
+        "importPath": "models.iot.devices",
+        "description": "models.iot.devices",
+        "isExtraImport": true,
+        "detail": "models.iot.devices",
+        "documentation": {}
+    },
+    {
+        "label": "Device",
+        "importPath": "models.iot.devices",
+        "description": "models.iot.devices",
+        "isExtraImport": true,
+        "detail": "models.iot.devices",
+        "documentation": {}
+    },
+    {
+        "label": "Device",
+        "importPath": "models.iot.devices",
+        "description": "models.iot.devices",
+        "isExtraImport": true,
+        "detail": "models.iot.devices",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "controllers.app_controller",
+        "description": "controllers.app_controller",
+        "isExtraImport": true,
+        "detail": "controllers.app_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_db",
+        "importPath": "utils.create_db",
+        "description": "utils.create_db",
+        "isExtraImport": true,
+        "detail": "utils.create_db",
+        "documentation": {}
+    },
+    {
+        "label": "register_actuator",
+        "kind": 2,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "def register_actuator():\n    return render_template(\"register_actuator.html\")\n@actuator_.route('/add_actuator', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef add_actuator():\n    name = request.form.get(\"name\")\n    brand = request.form.get(\"brand\")\n    model = request.form.get(\"model\")\n    topic = request.form.get(\"topic\")",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "add_actuator",
+        "kind": 2,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "def add_actuator():\n    name = request.form.get(\"name\")\n    brand = request.form.get(\"brand\")\n    model = request.form.get(\"model\")\n    topic = request.form.get(\"topic\")\n    unit = request.form.get(\"unit\")\n    is_active = True if request.form.get(\"is_active\") == \"on\" else False\n    Actuator.save_actuator(name, brand, model, topic, unit, is_active)\n    actuators = Actuator.get_actuators()\n    return render_template(\"actuators.html\", actuators = actuators)",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "actuators",
+        "kind": 2,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "def actuators():\n    actuators = Actuator.get_actuators()\n    return render_template(\"actuators.html\", actuators=actuators)\n@actuator_.route('/edit_actuator')\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef edit_actuator():\n    id = request.args.get('id', None)\n    actuator = Actuator.get_single_actuator(id)\n    return render_template(\"update_actuator.html\", actuator=actuator)",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "edit_actuator",
+        "kind": 2,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "def edit_actuator():\n    id = request.args.get('id', None)\n    actuator = Actuator.get_single_actuator(id)\n    return render_template(\"update_actuator.html\", actuator=actuator)\n@actuator_.route('/update_actuator', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef update_actuator():\n    id = request.form.get(\"id\")\n    name = request.form.get(\"name\")",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_actuator",
+        "kind": 2,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "def update_actuator():\n    id = request.form.get(\"id\")\n    name = request.form.get(\"name\")\n    brand = request.form.get(\"brand\")\n    model = request.form.get(\"model\")\n    topic = request.form.get(\"topic\")\n    unit = request.form.get(\"unit\")\n    is_active = True if request.form.get(\"is_active\") == \"on\" else False\n    actuators = Actuator.update_actuator(id, name, brand, model, topic, unit, is_active)\n    return render_template(\"actuators.html\", actuators=actuators)",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "del_actuator",
+        "kind": 2,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "def del_actuator():\n    id = request.args.get('id', None)\n    actuators = Actuator.delete_actuator(id)\n    return render_template(\"actuators.html\", actuators=actuators)",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "actuator_",
+        "kind": 5,
+        "importPath": "controllers.actuators_controller",
+        "description": "controllers.actuators_controller",
+        "peekOfCode": "actuator_ = Blueprint(\"actuator_\", __name__, template_folder=\"views\")\n@actuator_.route('/register_actuator')\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef register_actuator():\n    return render_template(\"register_actuator.html\")\n@actuator_.route('/add_actuator', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef add_actuator():",
+        "detail": "controllers.actuators_controller",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "controllers.app_controller",
+        "description": "controllers.app_controller",
+        "peekOfCode": "def create_app():\n    app = Flask(__name__,\n                template_folder=\"./views/\",\n                static_folder=\"./static/\",\n                root_path=\"./\")\n    app.secret_key = 'd54gdh543trg@!54gdh'\n    login_manager = flask_login.LoginManager()\n    login_manager.init_app(app)\n    app.register_blueprint(sensor_, url_prefix='/sensors')\n    app.register_blueprint(actuator_, url_prefix=\"/actuators\")",
+        "detail": "controllers.app_controller",
+        "documentation": {}
+    },
+    {
+        "label": "validated_user",
+        "kind": 2,
+        "importPath": "controllers.login_controller",
+        "description": "controllers.login_controller",
+        "peekOfCode": "def validated_user():\n    if request.method == 'POST':\n        email = request.form['email']\n        password = request.form['password']\n        user = User.validate_user(email, password)\n        if user is None:\n            flash('Usuário e/ou senha incorreta!')\n            return render_template('login.html')\n        else:\n            flask_login.login_user(user)",
+        "detail": "controllers.login_controller",
+        "documentation": {}
+    },
+    {
+        "label": "validated_user",
+        "kind": 2,
+        "importPath": "controllers.login_controller",
+        "description": "controllers.login_controller",
+        "peekOfCode": "def validated_user():\n    if request.method == 'POST':\n        email = request.form['email']\n        password = request.form['password']\n        user = User.validate_user(email, password)\n        if user is None:\n            flash('Usuário e/ou senha incorreta!')\n            return render_template('login.html')\n        else:\n            flask_login.login_user(user)",
+        "detail": "controllers.login_controller",
+        "documentation": {}
+    },
+    {
+        "label": "logoff",
+        "kind": 2,
+        "importPath": "controllers.login_controller",
+        "description": "controllers.login_controller",
+        "peekOfCode": "def logoff():\n    logout_user()\n    return render_template(\"login.html\")",
+        "detail": "controllers.login_controller",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "controllers.login_controller",
+        "description": "controllers.login_controller",
+        "peekOfCode": "login = Blueprint(\"login\", __name__, template_folder=\"views\")\n\"\"\"\n@login.route('/validated_user', methods=['POST'])\ndef validated_user():\n    if request.method == 'POST':\n        email = request.form['email']\n        password = request.form['password']\n        user = User.validate_user(email, password)\n        if user is None:\n            flash('Usuário e/ou senha incorreta!')",
+        "detail": "controllers.login_controller",
+        "documentation": {}
+    },
+    {
+        "label": "tempo_real",
+        "kind": 2,
+        "importPath": "controllers.mqtt_controller",
+        "description": "controllers.mqtt_controller",
+        "peekOfCode": "def tempo_real():\n    try:\n        # Buscar os sensores\n        sensors = Sensor.get_sensors()\n        # Buscar os valores mais recentes para cada sensor\n        reads = {}\n        for sensor in sensors:\n            recent_read = Read.query.filter_by(sensors_id=sensor.id).order_by(Read.read_datetime.desc()).first()\n            if recent_read:\n                reads[sensor.id] = recent_read.value",
+        "detail": "controllers.mqtt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "mqtt",
+        "kind": 5,
+        "importPath": "controllers.mqtt_controller",
+        "description": "controllers.mqtt_controller",
+        "peekOfCode": "mqtt = Blueprint(\"mqtt\", __name__, template_folder=\"views\")\n@mqtt.route('/tempo_real')\n@flask_login.login_required\n@role_required(1, 2, 3)  # Todos\ndef tempo_real():\n    try:\n        # Buscar os sensores\n        sensors = Sensor.get_sensors()\n        # Buscar os valores mais recentes para cada sensor\n        reads = {}",
+        "detail": "controllers.mqtt_controller",
+        "documentation": {}
+    },
+    {
+        "label": "publish_view",
+        "kind": 2,
+        "importPath": "controllers.publish_controller",
+        "description": "controllers.publish_controller",
+        "peekOfCode": "def publish_view():\n    return render_template(\"publish.html\")",
+        "detail": "controllers.publish_controller",
+        "documentation": {}
+    },
+    {
+        "label": "publish",
+        "kind": 5,
+        "importPath": "controllers.publish_controller",
+        "description": "controllers.publish_controller",
+        "peekOfCode": "publish = Blueprint(\"publish\", __name__, template_folder=\"views\")\n@publish.route('/publish')\n@flask_login.login_required\n@role_required(1, 2)  # Admin/Moderador\ndef publish_view():\n    return render_template(\"publish.html\")",
+        "detail": "controllers.publish_controller",
+        "documentation": {}
+    },
+    {
+        "label": "add_read",
+        "kind": 2,
+        "importPath": "controllers.reads_controller",
+        "description": "controllers.reads_controller",
+        "peekOfCode": "def add_read():\n    topic = request.form.get(\"topic\")\n    value = request.form.get(\"value\")\n    Read.save_read(topic, value)\n    return \"Read saved successfully\"\n@read.route(\"/history_read\")\n@flask_login.login_required\n@role_required(1, 2, 3)  # Todos\ndef history_read():\n    sensors = Sensor.get_sensors()",
+        "detail": "controllers.reads_controller",
+        "documentation": {}
+    },
+    {
+        "label": "history_read",
+        "kind": 2,
+        "importPath": "controllers.reads_controller",
+        "description": "controllers.reads_controller",
+        "peekOfCode": "def history_read():\n    sensors = Sensor.get_sensors()\n    read = {}\n    return render_template(\"history_read.html\", sensors=sensors, read=read)\n@read.route(\"/get_read\", methods=['POST'])\n@flask_login.login_required\ndef get_read():\n    if request.method == 'POST':\n        id = request.form['id']\n        start = request.form['start']",
+        "detail": "controllers.reads_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_read",
+        "kind": 2,
+        "importPath": "controllers.reads_controller",
+        "description": "controllers.reads_controller",
+        "peekOfCode": "def get_read():\n    if request.method == 'POST':\n        id = request.form['id']\n        start = request.form['start']\n        end = request.form['end']\n        read = Read.get_read(id, start, end)\n        sensors = Sensor.get_sensors()\n        return render_template(\"history_read.html\", sensors=sensors, read=read)",
+        "detail": "controllers.reads_controller",
+        "documentation": {}
+    },
+    {
+        "label": "read",
+        "kind": 5,
+        "importPath": "controllers.reads_controller",
+        "description": "controllers.reads_controller",
+        "peekOfCode": "read = Blueprint(\"read\", __name__, template_folder=\"views\")\n@read.route('/add_read', methods=['POST'])\n@flask_login.login_required\ndef add_read():\n    topic = request.form.get(\"topic\")\n    value = request.form.get(\"value\")\n    Read.save_read(topic, value)\n    return \"Read saved successfully\"\n@read.route(\"/history_read\")\n@flask_login.login_required",
+        "detail": "controllers.reads_controller",
+        "documentation": {}
+    },
+    {
+        "label": "register_sensor",
+        "kind": 2,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "def register_sensor():\n    return render_template(\"register_sensor.html\")\n@sensor_.route('/add_sensor', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef add_sensor():\n    name = request.form.get(\"name\")\n    brand = request.form.get(\"brand\")\n    model = request.form.get(\"model\")\n    topic = request.form.get(\"topic\")",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "add_sensor",
+        "kind": 2,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "def add_sensor():\n    name = request.form.get(\"name\")\n    brand = request.form.get(\"brand\")\n    model = request.form.get(\"model\")\n    topic = request.form.get(\"topic\")\n    unit = request.form.get(\"unit\")\n    is_active = True if request.form.get(\"is_active\") == \"on\" else False\n    Sensor.save_sensor(name, brand, model, topic, unit, is_active )\n    sensors = Sensor.get_sensors()\n    return render_template(\"sensors.html\", sensors = sensors)",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "sensors",
+        "kind": 2,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "def sensors():\n    sensors = Sensor.get_sensors()\n    return render_template(\"sensors.html\", sensors=sensors)\n@sensor_.route('/edit_sensor')\n@role_required(1)  # Somente Admin\n@flask_login.login_required\ndef edit_sensor():\n    id = request.args.get('id', None)\n    sensor = Sensor.get_single_sensor(id)\n    return render_template(\"update_sensor.html\", sensor = sensor)",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "edit_sensor",
+        "kind": 2,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "def edit_sensor():\n    id = request.args.get('id', None)\n    sensor = Sensor.get_single_sensor(id)\n    return render_template(\"update_sensor.html\", sensor = sensor)\n@sensor_.route('/update_sensor', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef update_sensor():\n    id = request.form.get(\"id\")\n    name = request.form.get(\"name\")",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_sensor",
+        "kind": 2,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "def update_sensor():\n    id = request.form.get(\"id\")\n    name = request.form.get(\"name\")\n    brand = request.form.get(\"brand\")\n    model = request.form.get(\"model\")\n    topic = request.form.get(\"topic\")\n    unit = request.form.get(\"unit\")\n    is_active = True if request.form.get(\"is_active\") == \"on\" else False\n    sensors = Sensor.update_sensor(id, name, brand, model, topic, unit, is_active )\n    return render_template(\"sensors.html\", sensors = sensors)",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "del_sensor",
+        "kind": 2,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "def del_sensor():\n    id = request.args.get('id', None)\n    sensors = Sensor.delete_sensor(id)\n    return render_template(\"sensors.html\", sensors = sensors)",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "sensor_",
+        "kind": 5,
+        "importPath": "controllers.sensors_controller",
+        "description": "controllers.sensors_controller",
+        "peekOfCode": "sensor_ = Blueprint(\"sensor_\",__name__, template_folder=\"views\")\n@sensor_.route('/register_sensor')\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef register_sensor():\n    return render_template(\"register_sensor.html\")\n@sensor_.route('/add_sensor', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef add_sensor():",
+        "detail": "controllers.sensors_controller",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "def register_user():\n    roles = Role.get_role()\n    return render_template(\"register_user.html\", roles=roles)\n@user.route('/add_user', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef add_user():\n    global users\n    if request.method == 'POST':\n        role_name = request.form['role_type_']",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "kind": 2,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "def add_user():\n    global users\n    if request.method == 'POST':\n        role_name = request.form['role_type_']\n        username = request.form['username']\n        email = request.form['email']\n        password = request.form['password']\n        User.save_user(role_name, username, email,password)\n        return render_template(\"home.html\")\n@user.route('/list_users')",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "list_users",
+        "kind": 2,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "def list_users():\n    users = User.get_users()\n    return render_template(\"users.html\", users=users)\n@user.route('/edit_user')\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef edit_user():\n    user_id = request.args.get('user_id', None)\n    user = User.query.get(user_id)\n    roles = Role.get_role()",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "edit_user",
+        "kind": 2,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "def edit_user():\n    user_id = request.args.get('user_id', None)\n    user = User.query.get(user_id)\n    roles = Role.get_role()\n    return render_template('update_user.html', user=user, roles=roles)\n@user.route('/update_user', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef update_user():\n    user_id = request.form['user_id']",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "def update_user():\n    user_id = request.form['user_id']\n    user = User.query.get(user_id)\n    user.username = request.form['username']\n    user.email = request.form['email']\n    user.role_id = request.form['role_type_']\n    db.session.commit()\n    users = User.get_users()\n    return render_template(\"users.html\", users=users)\n@user.route('/delete_user', methods=['GET'])",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "def delete_user():\n    user_id = request.args.get('user_id', None)\n    user = User.query.get(user_id)\n    if user.role_id == 1:  # Verifica se o usuário é Admin\n        users = User.get_users()\n        return render_template(\"users.html\", users=users, error=\"Admin users cannot be deleted.\")\n    db.session.delete(user)\n    db.session.commit()\n    users = User.get_users()\n    return render_template(\"users.html\", users=users)",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "controllers.users_controller",
+        "description": "controllers.users_controller",
+        "peekOfCode": "user = Blueprint(\"user\",__name__, template_folder=\"views\")\n@user.route('/register_user')\n@flask_login.login_required\n@role_required(1)  # Somente Admin\ndef register_user():\n    roles = Role.get_role()\n    return render_template(\"register_user.html\", roles=roles)\n@user.route('/add_user', methods=['POST'])\n@flask_login.login_required\n@role_required(1)  # Somente Admin",
+        "detail": "controllers.users_controller",
+        "documentation": {}
+    },
+    {
+        "label": "add_write",
+        "kind": 2,
+        "importPath": "controllers.writes_controller",
+        "description": "controllers.writes_controller",
+        "peekOfCode": "def add_write():\n    topic = request.form.get(\"topic\")\n    value = request.form.get(\"value\")\n    Write.save_write(topic, value)\n    return \"Write saved successfully\"\n@write.route(\"/history_write\")\n@flask_login.login_required\n@role_required(1, 2)  # Admin/Moderador\ndef history_write():\n    actuators = Actuator.get_actuators()",
+        "detail": "controllers.writes_controller",
+        "documentation": {}
+    },
+    {
+        "label": "history_write",
+        "kind": 2,
+        "importPath": "controllers.writes_controller",
+        "description": "controllers.writes_controller",
+        "peekOfCode": "def history_write():\n    actuators = Actuator.get_actuators()\n    write = {}\n    return render_template(\"history_write.html\", actuators=actuators, write=write)\n@write.route(\"/get_write\", methods=['POST'])\n@flask_login.login_required\ndef get_write():\n    if request.method == 'POST':\n        id = request.form['id']\n        start = request.form['start']",
+        "detail": "controllers.writes_controller",
+        "documentation": {}
+    },
+    {
+        "label": "get_write",
+        "kind": 2,
+        "importPath": "controllers.writes_controller",
+        "description": "controllers.writes_controller",
+        "peekOfCode": "def get_write():\n    if request.method == 'POST':\n        id = request.form['id']\n        start = request.form['start']\n        end = request.form['end']\n        write = Write.get_write(id, start, end)\n        actuators = Actuator.get_actuators()\n        return render_template(\"history_write.html\", actuators=actuators, write=write)",
+        "detail": "controllers.writes_controller",
+        "documentation": {}
+    },
+    {
+        "label": "write",
+        "kind": 5,
+        "importPath": "controllers.writes_controller",
+        "description": "controllers.writes_controller",
+        "peekOfCode": "write = Blueprint(\"write\", __name__, template_folder=\"views\")\n@write.route('/add_write', methods=['POST'])\n@flask_login.login_required\ndef add_write():\n    topic = request.form.get(\"topic\")\n    value = request.form.get(\"value\")\n    Write.save_write(topic, value)\n    return \"Write saved successfully\"\n@write.route(\"/history_write\")\n@flask_login.login_required",
+        "detail": "controllers.writes_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Actuator",
+        "kind": 6,
+        "importPath": "models.iot.actuators",
+        "description": "models.iot.actuators",
+        "peekOfCode": "class Actuator(db.Model):\n    __tablename__ = 'actuators'\n    id = db.Column('id', db.Integer, primary_key=True)\n    devices_id = db.Column(db.Integer, db.ForeignKey(Device.id))\n    unit = db.Column(db.String(50))\n    topic = db.Column(db.String(50))\n    device = db.relationship('Device', back_populates='actuators')\n    @staticmethod\n    def save_actuator(name, brand, model, topic, unit, is_active):\n        # Criar o dispositivo",
+        "detail": "models.iot.actuators",
+        "documentation": {}
+    },
+    {
+        "label": "Device",
+        "kind": 6,
+        "importPath": "models.iot.devices",
+        "description": "models.iot.devices",
+        "peekOfCode": "class Device(db.Model):\n    __tablename__ = 'devices'\n    id= db.Column('id', db.Integer, primary_key=True)\n    name= db.Column(db.String(50))\n    brand= db.Column(db.String(50))\n    model= db.Column(db.String(50))\n    is_active= db.Column(db.Boolean, nullable= False, default= False)\n    sensors = db.relationship('Sensor', backref='devices', lazy=True)\n    actuators = db.relationship('Actuator', backref='devices', lazy=True)",
+        "detail": "models.iot.devices",
+        "documentation": {}
+    },
+    {
+        "label": "Read",
+        "kind": 6,
+        "importPath": "models.iot.read",
+        "description": "models.iot.read",
+        "peekOfCode": "class Read(db.Model):\n    __tablename__ = 'read'\n    id = db.Column('id', db.Integer, nullable=False, primary_key=True)\n    read_datetime = db.Column(db.DateTime(), nullable=False)\n    sensors_id = db.Column(db.Integer, db.ForeignKey(Sensor.id), nullable=False)\n    value = db.Column(db.Float, nullable=True)\n    @staticmethod\n    def save_read(topic, value):\n        print(f\"save_read called with topic={topic} and value={value}\")\n        sensor = Sensor.query.filter(Sensor.topic == topic).first()",
+        "detail": "models.iot.read",
+        "documentation": {}
+    },
+    {
+        "label": "Sensor",
+        "kind": 6,
+        "importPath": "models.iot.sensors",
+        "description": "models.iot.sensors",
+        "peekOfCode": "class Sensor(db.Model):\n    __tablename__ = 'sensors'\n    id= db.Column('id', db.Integer, primary_key=True)\n    devices_id = db.Column( db.Integer, db.ForeignKey(Device.id))\n    unit = db.Column(db.String(50))\n    topic = db.Column(db.String(50))\n    device = db.relationship('Device', back_populates='sensors')\n    @staticmethod\n    def save_sensor(name, brand, model, topic, unit, is_active):\n        # Criar o dispositivo",
+        "detail": "models.iot.sensors",
+        "documentation": {}
+    },
+    {
+        "label": "Write",
+        "kind": 6,
+        "importPath": "models.iot.write",
+        "description": "models.iot.write",
+        "peekOfCode": "class Write(db.Model):\n    __tablename__ = 'write'\n    id = db.Column('id', db.Integer, nullable=False, primary_key=True)\n    write_datetime = db.Column(db.DateTime(), nullable=False)\n    actuators_id = db.Column(db.Integer, db.ForeignKey(Actuator.id), nullable=False)\n    #value = db.Column(db.Float, nullable=True)\n    value = db.Column(db.String(10), nullable=True)\n    @staticmethod\n    def save_write(actuator_name, value):\n        print(f\"save_write called with actuator_name: {actuator_name}, value: {value}\")  # Debug print",
+        "detail": "models.iot.write",
+        "documentation": {}
+    },
+    {
+        "label": "role_required",
+        "kind": 2,
+        "importPath": "models.user.decorators",
+        "description": "models.user.decorators",
+        "peekOfCode": "def role_required(*roles):\n    def decorator(func):\n        @wraps(func)\n        def decorated_view(*args, **kwargs):\n            if current_user.is_authenticated and current_user.role_id in roles:\n                return func(*args, **kwargs)\n            return redirect(url_for('login.logoff'))\n        return decorated_view\n    return decorator",
+        "detail": "models.user.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": "models.user.roles",
+        "description": "models.user.roles",
+        "peekOfCode": "class Role(db.Model):\n    __tablename__ = 'roles'\n    id = db.Column(\"id\", db.Integer(), primary_key=True)\n    name = db.Column(db.String(50), nullable=False, unique=True)\n    description = db.Column(db.String(512))\n    @staticmethod\n    def save_role(name, description):\n        role = Role( name = name, description = description )\n        db.session.add(role)\n        db.session.commit()",
+        "detail": "models.user.roles",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models.user.users",
+        "description": "models.user.users",
+        "peekOfCode": "class User(db.Model, UserMixin):\n    __tablename__= \"users\"\n    id = db.Column(\"id\", db.Integer(), primary_key=True)\n    role_id = db.Column( db.Integer, db.ForeignKey(Role.id))\n    username= db.Column(db.String(45) , nullable=False, unique=True)\n    email= db.Column(db.String(30), nullable=False, unique=True)\n    password= db.Column(db.String(256) , nullable=False)\n    role = db.relationship('Role', backref='users')\n    @staticmethod\n    def save_user(role_type_, username, email,password):",
+        "detail": "models.user.users",
+        "documentation": {}
+    },
+    {
+        "label": "instance",
+        "kind": 5,
+        "importPath": "models.db",
+        "description": "models.db",
+        "peekOfCode": "instance = \"mysql+pymysql://root:1234@localhost:3306/ra3\"",
+        "detail": "models.db",
+        "documentation": {}
+    },
+    {
+        "label": "create_db",
+        "kind": 2,
+        "importPath": "utils.create_db",
+        "description": "utils.create_db",
+        "peekOfCode": "def create_db(app:Flask):\n    with app.app_context():\n        db.drop_all()\n        db.create_all() \n        # Criar roles\n        Role.save_role(\"Admin\", \"Usuário com acesso total\")\n        Role.save_role(\"Moderador\", \"Usuário com permissões de moderação\")\n        Role.save_role(\"Usuario\", \"Usuário comum\")\n        # Criar usuários\n        User.save_user(\"Admin\", \"Admin\", \"admin\", \"admin\")",
+        "detail": "utils.create_db",
+        "documentation": {}
+    }
+]

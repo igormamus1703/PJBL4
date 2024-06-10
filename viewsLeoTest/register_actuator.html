@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registrar Atuador</title>
+</head>
+<body>
+    <h1>Registrar Novo Atuador</h1>
+    <form action="/actuators/add_actuator" method="post">
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name"><br>
+        <label for="brand">Marca:</label>
+        <input type="text" id="brand" name="brand"><br>
+        <label for="model">Modelo:</label>
+        <input type="text" id="model" name="model"><br>
+        <label for="topic">Tópico:</label>
+        <input type="text" id="topic" name="topic"><br>
+        <label for="unit">Unidade:</label>
+        <input type="text" id="unit" name="unit"><br>
+        <label for="is_active">Ativo:</label>
+        <input type="checkbox" id="is_active" name="is_active"><br>
+        <input type="submit" value="Registrar">
+    </form>
+</body>
+</html>

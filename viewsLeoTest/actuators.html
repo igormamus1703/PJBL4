@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Atuadores</title>
+</head>
+<body>
+    <h1>Lista de Atuadores</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Marca</th>
+                <th>Modelo</th>
+                <th>Ativo</th>
+                <th>Tópico</th>
+                <th>Unidade</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for actuator in actuators %}
+            <tr>
+                <td>{{ actuator[0] }}</td>
+                <td>{{ actuator[1] }}</td>
+                <td>{{ actuator[2] }}</td>
+                <td>{{ actuator[3] }}</td>
+                <td>{{ actuator[4] }}</td>
+                <td>{{ actuator[5] }}</td>
+                <td>{{ actuator[6] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

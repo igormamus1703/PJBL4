@@ -1,0 +1,280 @@
+/* Estilize a navbar com cinza claro */
+.navbar {
+    background-color: #f0f0f0; /* Cinza claro */
+    border-bottom: 1px solid #e0e0e0; /* Tom mais claro de cinza */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+}
+
+/* Centralize os itens da navbar */
+.navbar .navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.navbar .navbar-nav .nav-item {
+    float: none; /* Remove o float padrão */
+    display: inline-block; /* Exibe os itens em linha */
+}
+
+/* Estilize os links na navbar */
+.navbar-nav .nav-link {
+    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+    font-weight: 500; /* Peso da fonte */
+    transition: color 0.3s ease; /* Transição suave */
+}
+
+/* Estilize os links na navbar quando em foco ou hover */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    color: #b3908b; /* Tom mais escuro de vermelho claro puxado para o rosa */
+    text-decoration: underline; /* Sublinhado ao passar o mouse */
+}
+
+/* Estilize os links ativos na navbar */
+.navbar-nav .nav-item.active .nav-link {
+    color: #b3908b; /* Tom mais escuro de vermelho claro puxado para o rosa */
+    text-decoration: underline; /* Sublinhado para link ativo */
+}
+
+/* Estilize o dropdown da navbar */
+.navbar-dark .navbar-nav .nav-link.dropdown-toggle {
+    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+}
+
+/* Estilize o ícone do dropdown na navbar */
+.navbar-dark .navbar-nav .nav-link.dropdown-toggle::after {
+    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+}
+
+/* Estilize o background do dropdown */
+.dropdown-menu {
+    background-color: #f0f0f0; /* Cinza claro */
+    border: 1px solid #e0e0e0; /* Borda para destacar o dropdown */
+    border-radius: 5px; /* Cantos arredondados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para profundidade */
+}
+
+/* Estilize os links no dropdown */
+.dropdown-menu .dropdown-item {
+    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+}
+
+/* Estilize os links no dropdown quando em foco ou hover */
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus {
+    background-color: #b3908b; /* Tom mais escuro de vermelho claro puxado para o rosa */
+    color: #fff; /* Cor do texto */
+}
+
+/* Adicione espaço entre os itens do dropdown */
+.dropdown-menu .dropdown-item {
+    padding: 10px 20px;
+}
+
+/* Ajuste o tamanho e a cor da borda do dropdown */
+.dropdown-menu {
+    border-width: 2px;
+}
+
+/* Estilize os itens do dropdown com espaçamento */
+.dropdown-menu .dropdown-item + .dropdown-item {
+    margin-top: 5px; /* Espaçamento entre os itens */
+}
+
+/* Ajuste a altura dos links na navbar */
+.navbar-nav .nav-link {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* Estilize a página history_read.html */
+.vertical-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura da viewport */
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    max-width: 800px;
+    border-top: 3px solid #b3908b; /* Detalhe de borda superior */
+}
+
+.card {
+    margin-bottom: 20px;
+    border: none; /* Remove a borda padrão */
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e0e0e0;
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    font-weight: bold;
+    font-size: 18px; /* Aumenta o tamanho da fonte */
+    padding: 15px;
+    border-radius: 12px 12px 0 0; /* Bordas arredondadas no topo */
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.Input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    transition: border-color 0.3s ease; /* Transição suave */
+}
+
+.Input:focus {
+    border-color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+input[type="datetime-local"],
+input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    transition: background-color 0.3s ease, border-color 0.3s ease; /* Transição suave */
+}
+
+input[type="datetime-local"]:focus,
+input[type="submit"]:focus {
+    border-color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+input[type="submit"] {
+    background-color: #b3908b; /* Tom mais escuro de vermelho claro */
+    color: #fff; /* Texto branco */
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #a67870; /* Tom ainda mais escuro de vermelho claro */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th,
+table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #e0e0e0;
+}
+
+table th {
+    background-color: #f8f9fa; /* Fundo claro */
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    font-weight: bold; /* Negrito para os cabeçalhos */
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table tbody tr:hover {
+    background-color: #f8f9fa; /* Fundo claro ao passar o mouse */
+}
+
+/* Adiciona uma transição suave para as linhas da tabela */
+table tbody tr {
+    transition: background-color 0.3s ease;
+}
+
+/* Adiciona ícones de ordenação nos cabeçalhos da tabela */
+table th.sortable:hover {
+    cursor: pointer;
+    background-color: #e8e8e8; /* Cor de fundo ao passar o mouse */
+}
+
+table th.sortable::after {
+    content: "\25B2"; /* Ícone de triângulo para ordenação ascendente */
+    float: right;
+    margin-left: 5px;
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+table th.sortable.sorted-desc::after {
+    content: "\25BC"; /* Ícone de triângulo para ordenação descendente */
+}
+
+/* Detalhes adicionais para o formulário */
+form p {
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+/* Estilize a página tr.html */
+.list-group-item {
+    border: 1px solid #e0e0e0;
+    padding: 15px;
+    font-size: 16px;
+    background-color: #ffffff;
+    color: #333333;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+.list-group-item strong {
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+.sensor-icon {
+    display: flex;
+    align-items: center;
+}
+
+.sensor-icon i {
+    margin-right: 8px; /* Espaço entre o ícone e o texto */
+}
+
+.login-box {
+    background-color: #ffffff; /* Fundo branco */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+    padding: 20px; /* Espaçamento interno */
+    width: 100%; /* Largura total */
+    max-width: 400px; /* Largura máxima */
+}
+
+.whiteText {
+    color: #b3908b; /* Tom mais escuro de vermelho claro */
+}
+
+.btn-primary {
+    background-color: #b3908b; /* Tom mais escuro de vermelho claro */
+    border-color: #b3908b;
+}
+
+.btn-primary:hover {
+    background-color: #a67870; /* Tom ainda mais escuro de vermelho claro */
+    border-color: #a67870;
+}
+
+.alert-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    border-radius: 4px;
+}
