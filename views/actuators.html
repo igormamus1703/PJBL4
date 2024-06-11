@@ -2,11 +2,11 @@
 {% extends"base.html" %}
 {% block content%}
 <div class="vertical-center">
-<div class="container view">
-  <div class="justify-content-center">
+<div class="container d-flex justify-content-center view">
+  <div class="d-flex justify-content-center flex-column">
     {% if actuators|length> 0 %}
-      <table id="view_actuators" class="table table-striped table-bordered" style="width:100%">
-        <p>Atuatores:</p>
+      <table id="view_actuators" class="" style="width:100%">
+        <h2 class="text-center">Atuadores:</h2>
         <thead>
           <tr>
             <th>actuator</th>
@@ -15,6 +15,8 @@
             <th>Tópico</th>
             <th>Unidade</th>
             <th>Ativo?</th>
+              <th></th>
+              <th></th>
           </tr>
         </thead>
         <tbody>
@@ -38,14 +40,11 @@
         </tbody>
       </table>
       <form  action= "{{ url_for('actuator_.register_actuator') }}">
-        <p><input type= "submit" value= "Adicionar atuator"/></p>
-        <form  action= "{{ url_for('actuator_.register_actuator') }}">
-          <p><input type= "submit" value= "Retornar"/></p>
-      </form>
+        <p class="mt-2 text-center"><input class="text-center mt-3 btn-danger text-white" type= "submit" value= "Adicionar atuator"/></p>
     {% else %}
       <p>Ainda não atuatores registrados!<p>
       <form  action= "http://localhost:8080/register_actuator">
-        <p><input type= "submit" value= "Adicionar atuator"/></p>
+        <p><input  class="text-center mt-3 btn-danger text-white" type= "submit" value= "Adicionar atuator"/></p>
       </form>
     {% endif %} 
     </div>

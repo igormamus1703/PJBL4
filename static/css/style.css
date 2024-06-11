@@ -19,7 +19,7 @@
 
 /* Estilize os links na navbar */
 .navbar-nav .nav-link {
-    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+    color: #000000; /* Vermelho claro puxado para o rosa */
     font-weight: 500; /* Peso da fonte */
     transition: color 0.3s ease; /* Transição suave */
 }
@@ -27,45 +27,51 @@
 /* Estilize os links na navbar quando em foco ou hover */
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-link:focus {
-    color: #b3908b; /* Tom mais escuro de vermelho claro puxado para o rosa */
+    color: #fff; /* Tom mais escuro de vermelho claro puxado para o rosa */
     text-decoration: underline; /* Sublinhado ao passar o mouse */
 }
 
 /* Estilize os links ativos na navbar */
 .navbar-nav .nav-item.active .nav-link {
-    color: #b3908b; /* Tom mais escuro de vermelho claro puxado para o rosa */
+    color: #ffffff; /* Tom mais escuro de vermelho claro puxado para o rosa */
     text-decoration: underline; /* Sublinhado para link ativo */
 }
 
 /* Estilize o dropdown da navbar */
 .navbar-dark .navbar-nav .nav-link.dropdown-toggle {
-    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+    color: #ffffff; /* Vermelho claro puxado para o rosa */
 }
 
 /* Estilize o ícone do dropdown na navbar */
 .navbar-dark .navbar-nav .nav-link.dropdown-toggle::after {
-    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+    color: #ffffff; /* Vermelho claro puxado para o rosa */
 }
 
 /* Estilize o background do dropdown */
 .dropdown-menu {
-    background-color: #f0f0f0; /* Cinza claro */
-    border: 1px solid #e0e0e0; /* Borda para destacar o dropdown */
+    background-color: #a71d2a; /* Cinza claro */
+
     border-radius: 5px; /* Cantos arredondados */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para profundidade */
+    padding: 0px;
 }
 
 /* Estilize os links no dropdown */
 .dropdown-menu .dropdown-item {
-    color: #cfa6a1; /* Vermelho claro puxado para o rosa */
+    color: #ffffff; /* Vermelho claro puxado para o rosa */
+    border: 1px solid #ffffff;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-left-width: 0px;
     transition: background-color 0.3s ease, color 0.3s ease; /* Transição suave */
+
 }
 
 /* Estilize os links no dropdown quando em foco ou hover */
 .dropdown-menu .dropdown-item:hover,
 .dropdown-menu .dropdown-item:focus {
-    background-color: #b3908b; /* Tom mais escuro de vermelho claro puxado para o rosa */
-    color: #fff; /* Cor do texto */
+    background-color: #a71d2a; /* Tom mais escuro de vermelho claro puxado para o rosa */
+    color: #ffffff; /* Cor do texto */
 }
 
 /* Adicione espaço entre os itens do dropdown */
@@ -99,11 +105,9 @@
 
 .container {
     background-color: #ffffff;
-    border-radius: 12px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.1);
     padding: 30px;
-    max-width: 800px;
-    border-top: 3px solid #b3908b; /* Detalhe de borda superior */
 }
 
 .card {
@@ -136,17 +140,16 @@
 }
 
 .Input:focus {
-    border-color: #b3908b; /* Tom mais escuro de vermelho claro */
+    border-color: #a71d2a; /* Tom mais escuro de vermelho claro */
 }
 
 input[type="datetime-local"],
 input[type="submit"] {
-    width: 100%;
     padding: 12px;
     margin-bottom: 10px;
     border: 1px solid #ced4da;
-    border-radius: 4px;
-    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    border-radius: 20px;
+    color: #1e2125; /* Tom mais escuro de vermelho claro */
     transition: background-color 0.3s ease, border-color 0.3s ease; /* Transição suave */
 }
 
@@ -155,20 +158,14 @@ input[type="submit"]:focus {
     border-color: #b3908b; /* Tom mais escuro de vermelho claro */
 }
 
-input[type="submit"] {
-    background-color: #b3908b; /* Tom mais escuro de vermelho claro */
-    color: #fff; /* Texto branco */
-    cursor: pointer;
-}
 
-input[type="submit"]:hover {
-    background-color: #a67870; /* Tom ainda mais escuro de vermelho claro */
-}
+
 
 table {
-    width: 100%;
+    width: max-content;
     border-collapse: collapse;
     margin-top: 20px;
+
 }
 
 table th,
@@ -180,16 +177,16 @@ table td {
 
 table th {
     background-color: #f8f9fa; /* Fundo claro */
-    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    color: #000000; /* Tom mais escuro de vermelho claro */
     font-weight: bold; /* Negrito para os cabeçalhos */
 }
 
 table tbody tr:nth-child(even) {
-    background-color: #f2f2f2;
+    background-color: #ffffff;
 }
 
 table tbody tr:hover {
-    background-color: #f8f9fa; /* Fundo claro ao passar o mouse */
+    background-color: #ffffff; /* Fundo claro ao passar o mouse */
 }
 
 /* Adiciona uma transição suave para as linhas da tabela */
@@ -233,12 +230,10 @@ form p {
 
 .list-group-item:hover {
     background-color: #f8f9fa;
-    color: #b3908b; /* Tom mais escuro de vermelho claro */
+    color: #bd2130; /* Tom mais escuro de vermelho claro */
 }
 
-.list-group-item strong {
-    color: #b3908b; /* Tom mais escuro de vermelho claro */
-}
+
 
 .sensor-icon {
     display: flex;
@@ -246,7 +241,7 @@ form p {
 }
 
 .sensor-icon i {
-    margin-right: 8px; /* Espaço entre o ícone e o texto */
+    margin-right: 13px; /* Espaço entre o ícone e o texto */
 }
 
 .login-box {

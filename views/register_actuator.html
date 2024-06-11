@@ -1,27 +1,30 @@
 <!--register_actuator.html -->
 {% extends"base.html" %}
 {% block content%} 
-<div class="vertical-center">
-    <div class="container">
-        <div class="card">
-            <div class="card-header">
-                <div class="card-body">
-                    <form action = "{{ url_for('actuator_.add_actuator') }}" method = "post">
-                        <p>Nome do Atuador:</p>
-                        <p><input type = "text" name = "name" placeholder="Nome do Atuador" required/></p>
-                        <p>Marca:</p>
-                        <p><input type = "text" name = "brand" placeholder="Marca do Atuador" required/></p>
-                        <p>Modelo:</p>
-                        <p><input type = "text" name = "model" placeholder="Modelo do Atuador" required/></p>
-                        <p>Unidade de Medida:</p>
-                        <p><input type = "text" name = "unit" placeholder="Unidade de Media" required/></p>
-                        <p>Tópico MQTT:</p>
-                        <p><input type = "text" name = "topic" placeholder="Tópico MQTT" required/></p>
-                        <div>
+<div class="vertical-center  flex flex-column justify-content-center w-25">
+    <div class="container d-flex flex-column justify-content-center" >
+        <div class="d-flex justify-content-center">
+            <div class="align-content-center d-flex justify-content-center">
+                <div class="flex-column d-flex justify-content-center">
+                    <div class="text-center">
+                <h2 class="py-2  mt-3 mb-3 ">Registrar Atuador</h2>
+                </div>
+                    <form action = "{{ url_for('actuator_.add_actuator') }}" method = "post" class="flex ">
+                        <p class=" text-black ">Nome do Atuador:</p>
+                        <p><input type = "text" name = "name" class=" form-control" placeholder="Nome do Atuador" required/></p>
+                        <p class=" text-black ">Marca:</p>
+                        <p class="text-black "><input type = "text" name = "brand" class=" form-control" placeholder="Marca do Atuador" required/></p>
+                        <p class=" text-black ">Modelo:</p>
+                        <p><input type = "text" name = "model" class=" form-control  " placeholder="Modelo do Atuador" required/></p>
+                        <p class=" text-black ">Unidade de Medida:</p>
+                        <p><input type = "text" name = "unit" class=" form-control"  placeholder="Unidade de Media" required/></p>
+                        <p class=" text-black ">Tópico MQTT:</p>
+                        <p><input type = "text" class="form-control " name = "topic" placeholder="Tópico MQTT" required/></p>
+                        <div class="">
                             <input type="checkbox" id="is_active" name="is_active" checked />
-                            <label for="is_active">Ativo?</label>
+                            <label class="text-black " for="is_active">Ativo?</label>
                           </div>
-                        <p><input type = "submit" value = "Cadastrar" /></p>
+                        <p class="text-center"><input type = "submit" value = "Cadastrar" class="mt-2 w-75 btn btn-danger text-white" /></p>
                     </form>
                 </div>
             </div>

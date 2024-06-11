@@ -2,4 +2,4 @@ from flask_sqlalchemy import SQLAlchemy
 
 db= SQLAlchemy()
 
-instance = "mysql+pymysql://root@localhost:3306/ra3"
+instance = "mysql+pymysql://root:123123@localhost:3306/ra3"
